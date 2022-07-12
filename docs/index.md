@@ -1,89 +1,74 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Punyanith's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Punyanith Tangsiriruangrit
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+<a href="punyanith.t@gmail.com">punyanith.t@gmail.com</a>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2015 - 2017`
+A.A - Direct Transfer Agreement
+__Edmond Community College__, Edmonds, WA
+- 3.2 GPA
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected April 2023`
+B.S. - Computer Science
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.7 GPA
 
 
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Experiential Learning Projects
+`Relevant Course Work`
+- WDD 130 - Constructed a website using CSS and HTML to showcase clothing items for a fashion brand
+- CSE 110 – Created a budgeting program with Python in VS Code which allowed users to record income, expenses, add description, and view their record and balance
+- ECEN 106 – Collaborated with a classmate to construct an Arduino Ultrasonic Distance Sensor by combining hardware and software skills.
 
 
-## Service and Work History
+## Professional Experience
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`June 2019 - April 2021`
+Sewer/Presser | Nordstrom Alterations | Bellevue, WA 
+
+- Performed sewer and presser tasks, completed approx. 20 work orders per shift
+
+- Organized workload, and completed tasks within the indicated time frame
+
+- Acquired and maintained product knowledge of fit, style, trends, and garment construction techniques
+- New skills and techniques can be applied efficiently after 2 times of demonstration
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`July 2015 - March 2021`
+Server, Host, Food Runner | Silver Spoon Thai Restaurant and Bar | Lynnwood, WA
 
+- Developed communication and time management skills to better assist customers and maintained a professional work culture with team members
+
+- Enhanced customers’ experience with warm welcomes, professional service while prioritized their needs, and completed each task within a timely manner
+
+- Managed closing duties, balanced cash transactions and submitted financial reports
+
+`December 2017 - June 2019`
+Teller | Wells Fargo Bank | Lynnwood, WA 
+
+- Demonstrated accuracy and attention to details in working with cash and numbers
+
+- Completed approximately 150 – 200 transactions per day
+
+- Built rapport with customers and team members to establish a long term relationship and trust
+
+- Executed customer’s requests while compiling with the bank’s rules, regulation and evaluating risk management within an appropriate time frame
+
+## Languages
+- Bilingual in Thai and English
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2022 -->
 
 
